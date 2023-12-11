@@ -1,0 +1,17 @@
+D:\Projects\csharp\threads\threads\bin\Debug\net7.0\threads.exe
+D:\Projects\csharp\threads\threads\bin\Debug\net7.0\threads.deps.json
+D:\Projects\csharp\threads\threads\bin\Debug\net7.0\threads.runtimeconfig.json
+D:\Projects\csharp\threads\threads\bin\Debug\net7.0\threads.dll
+D:\Projects\csharp\threads\threads\bin\Debug\net7.0\threads.pdb
+D:\Projects\csharp\threads\threads\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\Projects\csharp\threads\threads\obj\Debug\net7.0\threads.csproj.AssemblyReference.cache
+D:\Projects\csharp\threads\threads\obj\Debug\net7.0\threads.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\csharp\threads\threads\obj\Debug\net7.0\threads.AssemblyInfoInputs.cache
+D:\Projects\csharp\threads\threads\obj\Debug\net7.0\threads.AssemblyInfo.cs
+D:\Projects\csharp\threads\threads\obj\Debug\net7.0\threads.csproj.CoreCompileInputs.cache
+D:\Projects\csharp\threads\threads\obj\Debug\net7.0\threads.csproj.CopyComplete
+D:\Projects\csharp\threads\threads\obj\Debug\net7.0\threads.dll
+D:\Projects\csharp\threads\threads\obj\Debug\net7.0\refint\threads.dll
+D:\Projects\csharp\threads\threads\obj\Debug\net7.0\threads.pdb
+D:\Projects\csharp\threads\threads\obj\Debug\net7.0\threads.genruntimeconfig.cache
+D:\Projects\csharp\threads\threads\obj\Debug\net7.0\ref\threads.dll
